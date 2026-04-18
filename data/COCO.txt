@@ -1,1 +1,7 @@
 Put here the links for COCO database at OneDrive
+
+https://mylambton-my.sharepoint.com/:u:/g/personal/c0936855_mylambton_ca/IQAPSBGKEXdTRakVU505uOMmAVYAbwwhHrEaMiyc17C44Wo?e=Wtnw0t (COCO Validation dataset)
+https://mylambton-my.sharepoint.com/:u:/g/personal/c0936855_mylambton_ca/IQBqCz4vL6XGS48gMSSdiY0aAXpqoFew2YC9zfloo0wyT3o?e=jK1AHl (COCO Training dataset)
+https://mylambton-my.sharepoint.com/:u:/g/personal/c0936855_mylambton_ca/IQDd03vFjGkcSKnqL5CoV2NxAferUVqRb413z2PeNtgfoac?e=skNjxm (COCO Test dataset)
+
+
